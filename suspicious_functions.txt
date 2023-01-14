@@ -1,0 +1,10 @@
+CreateProcess
+CreateProcessA
+ConnectNamedPipe
+CreateFileMapping
+CreateRemoteThread
+DeviceIoControl
+GetAsyncKeyState
+GetModuleFilename
+GetThreadContext
+InternetOpen
